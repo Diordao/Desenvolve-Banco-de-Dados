@@ -1,0 +1,23 @@
+{
+  "id": "sample-1",
+  "tradingName": "Adega da Cerveja - Pinheiros",
+  "ownerName": "Zé da Silva",
+  "document": "1432132123891/0001",
+  "coverageArea": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [-46.57421, -23.551],
+          [-46.573, -23.551],
+          [-46.573, -23.552],
+          [-46.57421, -23.551]
+        ]
+      ]
+    ]
+  },
+  "address": {
+    "type": "Point",
+    "coordinates": [-46.57421, -23.551]
+  }
+}
